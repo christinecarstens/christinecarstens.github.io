@@ -1,0 +1,21 @@
+body{
+    font-family: impact;
+    color: brown;
+}
+
+.asdf{
+    background-color: blue;
+    color: white;
+    font-family: monospace;
+}
+
+.qwer{
+    background-color: violet;
+    margin: 2em;
+    padding: .5em;
+    color: white;
+    border: 5px solid lightgray;
+}
+em:hover{
+    font-size: 2em;
+}
